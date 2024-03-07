@@ -1,6 +1,6 @@
 What's New:
 - In-app update system using AutoUpdate.NET
-- Adds ability to detect user of app via checking Windows username
+- Adds ability to create user profiles
 - Small fixes to other areas of the app
-- Changed "About" to "Account in the backstage
+- Adds "Account" page in the backstage
 - Adds a Start Page to the app
