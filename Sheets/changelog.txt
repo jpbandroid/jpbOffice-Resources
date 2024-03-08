@@ -1,6 +1,6 @@
 What's New:
-- In-app update system using AutoUpdate.NET
-- Adds ability to create user profiles
-- Small fixes to other areas of the app
-- Adds "Account" page in the backstage
-- Adds a Start Page to the app
+- Adds a new Fluent about page
+- Introduces jpb Office version numbering scheme
+- From now on, Sheets is guaranteed to receive monthly updates
+- Adds a splash screen
+- Small fixes to the About area in the Backstage
