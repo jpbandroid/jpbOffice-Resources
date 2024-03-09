@@ -1,0 +1,2 @@
+What's New:
+- Initial version of PowerNotepad WPF
