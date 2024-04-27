@@ -1,6 +1,2 @@
 What's New:
-- Adds a new Fluent about page
-- Introduces jpb Office version numbering scheme
-- From now on, Sheets is guaranteed to receive monthly updates
-- Adds a splash screen
-- Small fixes to the About area in the Backstage
+- Dependency updates

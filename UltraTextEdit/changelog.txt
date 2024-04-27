@@ -1,2 +1,4 @@
 What's New:
-- Initial version of UTE WPF
+
+- Dependency updates
+- Small fixes to the Ribbon and titlebar
