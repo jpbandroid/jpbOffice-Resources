@@ -1,2 +1,4 @@
 What's New:
+
+- Make application DPI aware
 - Dependency updates

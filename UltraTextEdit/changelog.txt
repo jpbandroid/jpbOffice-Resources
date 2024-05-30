@@ -1,4 +1,4 @@
 What's New:
 
+- Make application DPI aware
 - Dependency updates
-- Small fixes to the Ribbon and titlebar

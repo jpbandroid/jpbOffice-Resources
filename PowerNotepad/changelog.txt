@@ -1,6 +1,4 @@
 What's New:
 
-- Update dependencies
-- Add more lexers
-- Update the syntax highlighting styles
-- Code editor control is now in Light theme by default, syncing with the rest of the app
+- Make application DPI aware
+- Dependency updates
